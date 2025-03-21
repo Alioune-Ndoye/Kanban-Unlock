@@ -20,7 +20,7 @@ Installation
 sh
 Copy
 Edit
-git clone https://github.com/your-username/kanban-board-jwt.git  
+git clone https:git@github.com:Alioune-Ndoye/Kanban-Unlock.git
 cd kanban-board-jwt  
 npm install  
 npm run dev  # Start frontend  
